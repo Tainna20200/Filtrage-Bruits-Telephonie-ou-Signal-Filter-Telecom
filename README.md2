@@ -1,0 +1,21 @@
+Filtrage de Bruits Parasites en Téléphonie 📞
+
+Contexte
+Projet TIPe réalisé en prépa. Objectif : concevoir un filtre numérique et analogique pour réduire les bruits parasites lors d'appels téléphoniques sans déformer la voix humaine.
+
+Mes Réalisations
+✅ Filtre Passe-Bas — Réduction de 70% du bruit parasites avec Python (Spyder) 
+✅ Identification des limites — Déformation vocale au-delà de la fréquence de coupure 
+✅ Filtre Coupe-Bande — Conception et simulation numérique pour optimiser la bande passante ⏳ Prototype analogique — Expérimentation avec Arduino et Régressi (en cours)
+
+Stack Technique:
+Python (Spyder)
+Arduino
+Régressi (analyse de données expérimentales)
+Traitement de signal numérique
+Électronique analogique
+
+Apprentissages Clés:
+Autonomie et gestion de projet en solo après l'abandon du binôme
+Itération et résolution de problèmes complexes
+Rigueur scientifique et expérimentation
